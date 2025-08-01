@@ -1,3 +1,13 @@
+#########################################################
+
+Running Project
+- clone
+- add file .env
+- tambahkan VITE_GITHUB_TOKEN=Bearer YOURTOKENGITHUB
+
+#########################################################
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
